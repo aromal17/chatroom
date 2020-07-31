@@ -1,0 +1,29 @@
+h1{
+  color: #9f4dec;
+  font-family: Comic Sans MS;
+}
+
+.container{
+    max-width: 600px;
+  }
+  .btn{
+    background: #9f4dec;
+    color: white;
+    outline: none !important;
+    box-shadow: none !important;
+  }
+  .username{
+    font-weight: bold;
+    font-family: monospace;
+    text-transform: capitalize;
+    color : red;
+  }
+  .time{
+    font-size: 0.7em;
+    color: #999;
+  }
+  .update-mssg{
+    text-align: center;
+    margin: 20px auto;
+  }
+ 
