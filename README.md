@@ -1,4 +1,4 @@
-# chatroom
+# CHATROOM APPLICATION
 This is a realtime chat room application made using **HTML, CSS and Javascript with Firebase firestore as the database**
 Hosting is done using Firebase hosting.
 
@@ -7,4 +7,5 @@ The users also have the option to update their chatnames and the details will be
 
 link : https://chat-room-87355.web.app/
 
-This project is under progress and continuous improvements are made to it.
+Note :
+Adding user authentication using firebase is under process. 
